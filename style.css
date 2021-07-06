@@ -1,0 +1,80 @@
+.orange-color{
+     color:orange;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding:0;
+    
+}
+h1{
+    font-size: 50px;
+   
+}
+.font{
+    padding-top:10%;
+}
+.half-width{
+    width:50%;
+    padding-left: 20px;
+    
+}
+.about{
+    padding-right:10%;
+}
+.first{
+    width:100%;
+    padding: 10px 25px;
+
+}
+.two{
+    width:55%;
+    padding: 10px 80px;
+}
+.three{
+    width:90%;
+    padding:5%;
+    
+}
+.flexble{
+    display:flex;
+    margin:80px;
+}
+.Link-button{
+    text-decoration: none;
+    border-radius: 55px;
+    background-image: linear-gradient(orange,pink);
+    padding:3% 7%;
+    font-weight: 500;
+    color:white;
+    box-shadow: tomato 0px 4px 6px -1px,orange 0px 2px 4px -1px;
+}
+.Middle-section{
+    background-image: url(7.png);
+    padding:5% 0;
+    width:100%;
+    background-repeat: no-repeat;
+    margin:0%;
+    background-size: cover;
+}
+.text{
+    text-align: center;
+}
+.item{
+    box-shadow:2px 3px 10px grey;
+    margin-left:2%;
+    margin-right:2%;
+    width:100%;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+footer{
+    text-align: center;
+    background-color:black;
+    color:rgba(230, 230, 230, 0.74);
+    padding:5% 0;
+}
+footer span{
+    color:orange;
+}
